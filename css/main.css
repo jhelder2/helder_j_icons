@@ -41,6 +41,8 @@ body{
 	opacity:1;fill:black;
 }
 
-
-
-
+.selected {
+	color: blue !important;
+	text-transform: capitalize;
+	font-style: italic;
+}
