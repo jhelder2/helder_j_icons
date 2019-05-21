@@ -29,7 +29,7 @@
 
 		subtitle1.textContent = "Something elssssssse";
 		subtitle1.classList.toggle("selected");
-	}
+	} 
 
 
 //events always down here//
