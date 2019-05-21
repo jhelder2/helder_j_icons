@@ -46,3 +46,7 @@ body{
 	text-transform: capitalize;
 	font-style: italic;
 }
+
+.badged {
+	opacity: 50%;
+}
